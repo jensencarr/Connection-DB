@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "L53GcvPgYizTVtClDO8d6klqNb9ulXDfCMsZgsUyLQYI4Nznd19tlr/KBRyi01V94tljjbcLF3uj1/5vc9W+uw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kalle\\source\\repos\\Connection-DB\\Connection-DB\\Connection-DB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kalle\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\kalle\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\kalle\\.nuget\\packages\\npgsql\\8.0.1\\npgsql.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
